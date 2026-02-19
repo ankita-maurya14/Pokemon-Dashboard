@@ -1,6 +1,6 @@
-# 📊 Pokémon Card Sales Analytics Dashboard (Power BI)
+# Pokémon Card Sales Analytics Dashboard (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 
 This Power BI dashboard analyzes Pokémon card public sales data across
 multiple years, grading companies, and sub-categories.
@@ -12,37 +12,37 @@ and languages - Enable dynamic filtering for better business insights
 
 ------------------------------------------------------------------------
 
-## 📈 Key KPIs
+##  Key KPIs
 
--   💰 Total Sales: **\$130M**
--   📦 Total Quantity Sold: **520K**
--   📅 Years Covered: **2019--2024**
--   🏷 Grading Companies: **BGS, CGC, PSA**
+-    Total Sales: **\$130M**
+-    Total Quantity Sold: **520K**
+-    Years Covered: **2019--2024**
+-    Grading Companies: **BGS, CGC, PSA**
 
 ------------------------------------------------------------------------
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
-### 1️⃣ KPI Cards
+### 1️ KPI Cards
 
 -   Total Sales
 -   Total Quantity Sold
 
-### 2️⃣ Year-wise Sales Analysis
+### 2️ Year-wise Sales Analysis
 
 -   Sum of sales by Year
 -   Interactive year filter (2019--2024)
 
-### 3️⃣ Monthly Sales Trend
+### 3️ Monthly Sales Trend
 
 -   Bar chart showing month-wise performance
 -   Helps identify seasonal trends
 
-### 4️⃣ Grading Company Filter
+### 4️Grading Company Filter
 
 -   Toggle between BGS, CGC, PSA
 
-### 5️⃣ Detailed Sales Table
+### 5️ Detailed Sales Table
 
 -   Year
 -   Month
@@ -51,14 +51,14 @@ and languages - Enable dynamic filtering for better business insights
 -   Percentage of Sales
 -   Total Quantity
 
-### 6️⃣ Category & Language Analysis
+### 6️ Category & Language Analysis
 
 -   Sub-category breakdown
 -   Language filter (e.g., Japanese)
 
 ------------------------------------------------------------------------
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 -   Power BI Desktop
 -   DAX (Data Analysis Expressions)
@@ -67,7 +67,7 @@ and languages - Enable dynamic filtering for better business insights
 
 ------------------------------------------------------------------------
 
-## 📌 Business Insights
+##  Business Insights
 
 -   Sales peaked significantly in 2021.
 -   Certain sub-categories such as anniversary and promotional releases
@@ -77,7 +77,7 @@ and languages - Enable dynamic filtering for better business insights
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Use
+##  How to Use
 
 1.  Open the `.pbix` file in Power BI Desktop.
 2.  Use the year slicer to filter specific periods.
@@ -86,13 +86,13 @@ and languages - Enable dynamic filtering for better business insights
 
 ------------------------------------------------------------------------
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 (Add your dashboard screenshot here)
 
 ------------------------------------------------------------------------
 
-## 👩‍💻 Author
+##  Author
 
 Ankita Maurya\
 Data Analytics Enthusiast\
@@ -100,4 +100,4 @@ Power BI \| Python \| Excel \| Dashboard Development
 
 ------------------------------------------------------------------------
 
-⭐ If you found this project useful, consider giving it a star!
+ If you found this project useful, consider giving it a star!
